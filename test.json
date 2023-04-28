@@ -1,19 +1,15 @@
 {
-	"name": "example",
-	"author": "L+RATIO#1000",
-	"version": "4.2.0",
-	"description": "Your bunk ass theme... Now with BLUR!",
+	"name": "Dark Vibrant",
+	"author": "Egg#7363",
+	"version": "1.0.0",
+	"description": "An Attempt At Making A theme.",
 	"authors": [ 
 		{
-			"name": "NEO",
-			"id": "424806150702366723"
+			"name": "Egg",
+			"id": "1015049434607927306"
 		}
 	],
-	"background": {
-		"blur": "1",
-		"url": "https://i.imgur.com/sEkjODE.jpeg",
-		"alpha": "0.69"
-	},
+	
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
@@ -29,14 +25,14 @@
 		"BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
 		"CHANNELS_DEFAULT": ["#000000", "#FFFFFF"],
-		"HEADER_PRIMARY": ["#000000", "#FFFFFF"],
-		"HEADER_SECONDARY": ["#000000", "#FFFFFF"],
+		"HEADER_PRIMARY": ["##FFFFFF", "#FFFFFF"],
+		"HEADER_SECONDARY": ["##FFFFFF", "#FFFFFF"],
 		"INTERACTIVE_ACTIVE": ["#000000", "#FFFFFF"],
 		"INTERACTIVE_MUTED": ["#000000", "#FFFFFF"],
 		"INTERACTIVE_NORMAL": ["#000000", "#FFFFFF"],
 		"TEXT_LINK": ["#000000", "#FFFFFF"],
-		"TEXT_MUTED": ["#000000", "#FFFFFF"],
-		"TEXT_NORMAL": ["#000000", "#FFFFFF"]
+		"TEXT_MUTED": ["##6e6e6e", "#FFFFFF"],
+		"TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#FFFFFF",
